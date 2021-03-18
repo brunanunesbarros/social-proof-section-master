@@ -29,8 +29,8 @@ Versão Mobile
 
 ### Links
 
-- [Solução](#)
-- [Github Page](#)
+- [Solução](https://www.frontendmentor.io/solutions/social-proof-section-HkEa5uNvM)
+- [Github Page](https://brunanunesbarros.github.io/social-proof-section-master/)
 
 ## Meu processo
 
