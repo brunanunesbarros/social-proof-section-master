@@ -96,13 +96,13 @@ body {
     margin-top: 0.5rem;
 }
 
-.container section {
+.container .section {
     width: 100%;
 
     padding-bottom: 3rem;
 } 
 
-.container section .section-cards {
+.container .section .section-cards {
     background-color: var(--very-dark-magenta);
 
     border-radius: 0.5rem;
@@ -111,7 +111,7 @@ body {
     margin-bottom: 1rem;
 }
 
-.container section .section-cards > p {
+.container .section .section-cards > p {
     color: var(--light-grayish-magenta);
     
     font-weight: 400;
@@ -123,14 +123,14 @@ body {
     margin-top: 2rem;
 }
 
-.container section .section-cards .card-profile {
+.container .section .section-cards .card-profile {
     display: flex;
     align-items: center;
     justify-content: space-around;
  
 }
 
-.container section .section-cards .card-profile img {
+.container .section .section-cards .card-profile img {
     width: 15%;
     
     border-radius: 50%;
@@ -139,17 +139,17 @@ body {
     left: -2rem;
 }
 
-.container section .section-cards .card-profile .text-card-profile {
+.container .section .section-cards .card-profile .text-card-profile {
     position: relative;
     left: -4rem;
 }
-.container section .section-cards .card-profile .text-card-profile p{
+.container .section .section-cards .card-profile .text-card-profile p{
     color: var(--light-grayish-magenta);
     font-weight: 500;
     font-size: 0.9rem;
 }
 
-.container section .section-cards .card-profile .text-card-profile p:last-child {
+.container .section .section-cards .card-profile .text-card-profile p:last-child {
     color: var(--soft-pink);
     font-weight: 400;
 } 
@@ -224,7 +224,7 @@ body {
         margin: 0 1rem;
     }
 
-    .container section {
+    .container .section {
         grid-area: section;
         
         display: flex;
@@ -235,7 +235,7 @@ body {
         margin-top: 6rem;
     }
 
-    .container section .section-cards {
+    .container .section .section-cards {
         width: 32%;
     }
 
