@@ -117,7 +117,6 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
- 
 }
 
 .container .section .section-cards .card-profile img {
@@ -144,7 +143,7 @@
     font-weight: 400;
 } 
 
-@media (min-width: 1366px){
+@media (min-width: 1250px){
     .container {
         background-image: url('images/bg-pattern-top-desktop.svg'), url('images/bg-pattern-bottom-desktop.svg');
         background-size: 40% 40%, 80% 75%;
