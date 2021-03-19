@@ -154,7 +154,7 @@
         grid-template-areas: "header-content main" 
                              "section section";
         justify-items: center;
-        padding: 2rem 9rem;
+        padding: 2rem 8rem;
     }
 
     .container .header-content {
@@ -208,7 +208,7 @@
     }
 
     .container main .content-main p {
-        font-size: 1.2rem;
+        font-size: 1rem;
 
         margin: 0 1rem;
     }
